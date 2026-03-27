@@ -24,7 +24,7 @@ I care about how systems behave in the real world:
 - how they recover  
 - and how to make those paths clearer and more reliable  
 
-Over the years, I’ve worked across different parts of the stack — building user-facing applications, internal tools, and backend workflows involving scheduling, state management, and automation.
+Over the years, I’ve worked across different parts of the stack — building user-facing applications, internal tools, and backend workflows.
 
 Lately, I’ve been exploring how to bring structure to AI systems — enforcing contracts, validating outputs, and designing backend layers that can handle non-deterministic behavior.
 
